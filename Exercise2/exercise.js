@@ -11,3 +11,12 @@ console.log(size);
 console.log(color);
 console.log(todayWeather);
 console.log(curentTime);
+
+let surname = "Kazybay"
+let relatives = ["Ayaulym", "Aizhan", "Zhanerke", "Erlan"]
+let relativesNumbers = 5;
+
+console.log(surname);
+console.log(relatives);
+console.log(relativesNumbers);
+
